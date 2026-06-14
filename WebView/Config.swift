@@ -17,8 +17,8 @@ var purchasecode = "d74ba576-388a-4320-904c-bf666f5520a6"
 // *** Your Website ***
 
 // 4. Enter your website details here:
-var host = "local-tourist.co.uk" //Set your domain host without http:// or https:// prefixes and without any subdomain like "www."
-var webviewurl = "https://app.local-tourist.co.uk/new" //Set your full web app/website URL including http:// or https:// prefix and including subdomains if they are in your URL, like "www.", for example
+var host = "cultural-creative-hub.lovable.app/news" //Set your domain host without http:// or https:// prefixes and without any subdomain like "www."
+var webviewurl = "https://cultural-creative-hub.lovable.app/news" //Set your full web app/website URL including http:// or https:// prefix and including subdomains if they are in your URL, like "www.", for example
 
 // 5. You are all done! Enjoy your app! :-)
 
